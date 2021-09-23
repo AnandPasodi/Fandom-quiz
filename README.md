@@ -1,7 +1,7 @@
 # Fandom-quiz
-# Description:
+### Description:
 This is an amazing CLI Fandom Quiz application that I have build. It has a series of question and you are awarded 1 point for every right answer and final score displayed at the end of the game.
-# Technologies Used:
+### Technologies Used:
  1. Replit
  2. JavaScript (Node JS)
  3. readLineSync npm readlineSync
