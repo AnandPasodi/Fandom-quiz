@@ -6,7 +6,7 @@ This is an amazing CLI Fandom Quiz application that I have build. It has a serie
  2. JavaScript (Node JS)
  3. readLineSync npm readlineSync
  4. Chalk
- # Brief:
+ ### Brief:
  In this project, I have used an readlineSync module to read the input from the user, and then an object of questions and answers. 
  To check the answers, I have used loop to keep moving to next questions. For score, I have set a global variable that gets incremented. 
  To beautify it, I have used Chalk module
